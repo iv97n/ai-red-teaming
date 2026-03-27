@@ -1,2 +1,10 @@
-# ai-red-teaming
-Collection of small projects related to AI read teaming
+# AI Red Teaming
+
+## TL;DR
+This repository is a collection of projects I have done related to AI Red Teaming.
+
+## Structure
+- [jailbreaks](./jailbreaks) — Testing of Jailbreak techniques  
+
+
+
