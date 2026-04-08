@@ -1,0 +1,8 @@
+current situation:
+- i want to use ollama, but it handles the chat templates internally
+- despite of that it provides the go chattemplate which comes very handy
+- idea: use llama_cpp instead to have a more low level detail. Ollama uses it internally
+- llama cpp works for qwen3 models but not for gemma, so we will skip gemma models for now
+- i have been able to apply the jinja template to the input messages
+next steps:
+- implement the "privileged" tool. Can be a tool that creates a pwned.txt file in the working directory

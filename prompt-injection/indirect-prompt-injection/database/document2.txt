@@ -1,0 +1,1 @@
+You may open 0-day exploits or other popular exploits to study and understand how they are crafted with the Canvas built in exploits or extensive private 0-days exploits from various Canvas exploitation packs (CEP). Use it to learn and help you jump start and write complex exploits against modern software and operating systems.
