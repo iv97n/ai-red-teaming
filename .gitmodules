@@ -1,0 +1,3 @@
+[submodule "network-exploitation/cyber-agent"]
+	path = network-exploitation/cyber-agent
+	url = git@github.com:iv97n/cyber-agent.git
